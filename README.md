@@ -2,7 +2,7 @@
 
 Esta aplicacion hace un registro de tareas que se quieres realizar
 con las siguientes opciones.
-    - Crear
-    - Actualizar
-    - Listar
-    - Borrar
+    **** Crear ****
+    **** Actualizar ****
+    **** Listar ****
+    **** Borrar ****
